@@ -1,0 +1,100 @@
+.menu{
+    list-style:none;
+    font-family:sans-serif;
+    position:absolute;
+    top:10px;
+    right:30px;
+    z-index:10;
+    cursor:pointer;
+    color:blue;
+}
+.links{
+    float:left;
+    color:#fff;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:25px;
+    padding-right:25px;
+    font-family:fantasy;
+    font-size:20px;
+    display:inline;
+    color:blue;
+    text-decoration:none;
+}
+.links:hover{
+    background-color:orange;
+    font-size:25px;
+    text-decoration:underline;
+}
+a{
+    text-decoration:none;
+    color:crimson;
+    text-shadow:2px 2px gainsboro;
+    font-size:25px;
+}
+.article:hover{
+    color:red;
+}
+html{
+    scroll-behavior:smooth;
+    text-align:center;
+}
+.line{
+    height:6px;
+    background-color:#000;
+    width:70px;
+    margin:8px auto;
+}
+marquee{
+    border-color:blue;
+    border-width:5px
+}
+body{
+    text-align:center;
+}
+li{
+    color:blue;
+}
+.menu a{
+    color:blue;
+}
+#Sc1{
+  color:blue
+}
+#Sc2{
+  color:blue
+}
+#Sc3{
+  color:blue
+}
+#Sc4{
+  color:blue
+}
+#Sc5{
+  color:blue
+}
+#Sc6{
+  color:blue
+}
+#louise archer{
+    cursor:pointer;
+}
+#louise archer hr{
+    margin-bottom:10px;
+}
+.modal-content{
+    margin-top:100px;
+}
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top:10px;
+}
+.modal-body{
+    text-align:center;
+}
+#footer{
+    height: 20px;
+    background-color: white;
+}
